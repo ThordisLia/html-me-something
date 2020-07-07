@@ -17,13 +17,10 @@ h2 {
     text-align: left;
     font-family: 'Beth Ellen';
     margin-left: 50px;
-    color: #064579;
-    
+    color: #064579;   
 }
 
-li {
-    margin-bottom: 10px;
-}
+
 .page-wrapper { 
 	background: url(https://d2v9ipibika81v.cloudfront.net/uploads/sites/151/6EDE10ED-E482-429B-934D-CB6D6A6AF4BE_w1597_n_r1_s.jpg) no-repeat bottom;
     background-size: cover;
